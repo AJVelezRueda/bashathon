@@ -42,6 +42,10 @@ for i in $(seq 1 1000);  do
   ifconfig >> paso_5/instrucciones.txt
 done
 
+## Paso 7
+mkdir paso_7
+mv doc18.txt paso_7
+
 ## Paso 8
 mkdir paso_8
 echo "
@@ -75,9 +79,25 @@ echo "
 
 INSTRUCCIÓN: Ahora andá al directorio paso_14 y seguí las instrucciones." > paso_12/instrucciones.txt
 
+## Paso 13
+mkdir paso_13
+mv doc03.txt paso_13
+
 ## Paso 15
 mkdir paso_15
-mv mu1.dat paso_15
+mv doc01.txt paso_15
+
+## Paso 16
+mkdir paso_16
+mv doc11.txt paso_16
+
+## Paso 17
+mkdir paso_17
+mv doc12.txt paso_17
+
+## Paso 19
+mkdir paso_19
+mv doc13.txt paso_19
 
 ## Paso 20
 mkdir paso_20
@@ -99,11 +119,23 @@ Ahora, calculá el hash md5 de naranjo.txt. Andá al paso que indicen sus **últ
 
 ## Paso 30
 mkdir paso_30
-mv mu2.dat paso_30
+mv doc02.txt paso_30
+
+## Paso 32
+mkdir paso_32
+mv doc07.txt paso_32
+
+## Paso 35
+mkdir paso_35
+mv doc08.txt paso_35
+
+## Paso 37
+mkdir paso_37
+mv doc09.txt paso_37
 
 ## Paso 41
 mkdir paso_41
-mv ki2.dat paso_41
+mv doc10.txt paso_41
 
 ## Paso 42
 mkdir paso_42
@@ -111,8 +143,7 @@ echo "
 
 ¡Último paso!
 
-INSTRUCCIÓN: conformá la frase extrayendo los strings que hay en cada uno de los archivos. ¡Esa es la frase secreta!
-Su md5 debe ser 825699cd2365bc68f69866ab1fe2f908.
+INSTRUCCIÓN: conformá la frase pegando los strings que hay en cada uno de los archivos. ¡Esa es la frase secreta!
 
 " >> paso_42/instrucciones.txt
 
@@ -120,7 +151,7 @@ echo "INSTRUCCIÓN: Andá al directorio paso_2 y seguí las instrucciones"
 
 ## Paso 43
 mkdir paso_43
-mv ki1.dat paso_43
+mv doc04.txt paso_43
 
 ## Paso 44
 mkdir "paso_44"
@@ -128,27 +159,49 @@ echo "
 
 Ups, acá no hay nada útil :(" > paso_44/instrucciones.txt
 
+## Paso 50
+mkdir paso_50
+mv doc14.txt paso_50
 
-## Paso 60
-mkdir paso_60
+## Paso 52
+mkdir paso_52
+mv doc15.txt paso_52
+
+## Paso 54
+mkdir paso_54
+mv doc16.txt paso_54
+
+## Paso 57
+mkdir paso_57
+mv doc17.txt paso_57
+
+## Paso 65
+mkdir paso_65
+mv doc05.txt paso_65
+
+## Paso 6
+mkdir paso_66
+mv nodoc03.txt paso_66
+
+## Paso 67
+mkdir paso_67
+mv nodoc02.txt paso_67
+
+## Paso 68
+mkdir paso_68
+mv nodoc01.txt paso_68
+
+## Paso 70
+mkdir paso_70
+mv doc06.txt paso_70
+
+## Paso 91
+mkdir paso_91
 echo "
 
 ¡Ya falta poco!
 
-INSTRUCCIÓN: buscá entre todos los directorios los archivos que inice con mu y tengan extensión .dat.
+INSTRUCCIÓN: buscá entre todos los directorios los archivos que inice con doc y tengan extensión .txt.
 Mové o copiá los archivos al directorio paso_42, andá a ese directorio y seguí las instrucciones.
 
-" >> paso_60/instrucciones.txt
-
-## Paso 65
-mkdir paso_65
-mv ki3.dat paso_65
-
-## Paso 70
-mkdir paso_70
-mv mu3.dat paso_70
-
-
-
-
-
+" >> paso_91/instrucciones.txt
