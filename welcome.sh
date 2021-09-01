@@ -112,9 +112,8 @@ Que el agua blanda
 Era más fresca que el rió
 Naranjo en flor
 
-Asegurate de que no tenga fines de línea ni al inicio ni al final del archivo, y verificá que tenga exactamente 91 caracteres.
+Asegurate de que no tenga fines de línea ni al inicio ni al final del archivo, y verificá cuántos caracteres contiene y movete al direcotrio correspondiente.
 
-Ahora, calculá el hash md5 de naranjo.txt. Andá al paso que indicen sus **últimos dos** dígitos y seguí las instrucciones
 " >> paso_20/instrucciones.txt
 
 ## Paso 30
