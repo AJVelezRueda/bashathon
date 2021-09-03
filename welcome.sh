@@ -39,8 +39,10 @@ INSTRUCCIÓN: Ahora andá al directorio paso_10 y seguí las instrucciones
 
 " >> paso_5/instrucciones.txt
 for i in $(seq 1 1000);  do
-  ifconfig >> paso_5/instrucciones.txt
+  cat nodoc04.txt >> paso_5/instrucciones.txt
 done
+
+rm nodoc04.txt
 
 ## Paso 7
 mkdir paso_7
