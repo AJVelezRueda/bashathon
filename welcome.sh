@@ -114,7 +114,7 @@ Que el agua blanda
 Era más fresca que el rió
 Naranjo en flor
 
-Asegurate de que no tenga fines de línea ni al inicio ni al final del archivo, y verificá cuántos caracteres contiene y movete al direcotrio correspondiente.
+Asegurate de que no tenga fines de línea ni al inicio ni al final del archivo, y verificá cuántos caracteres contiene y movete al directorio correspondiente.
 
 " >> paso_20/instrucciones.txt
 
@@ -196,13 +196,13 @@ mv nodoc01.txt paso_68
 mkdir paso_70
 mv doc06.txt paso_70
 
-## Paso 91
-mkdir paso_91
+## Paso 88
+mkdir paso_88
 echo "
 
 ¡Ya falta poco!
 
-INSTRUCCIÓN: buscá entre todos los directorios los archivos que inice con doc y tengan extensión .txt.
+INSTRUCCIÓN: buscá entre todos los directorios los archivos que inicen con doc y tengan extensión .txt.
 Mové o copiá los archivos al directorio paso_42, andá a ese directorio y seguí las instrucciones.
 
-" >> paso_91/instrucciones.txt
+" >> paso_88/instrucciones.txt
