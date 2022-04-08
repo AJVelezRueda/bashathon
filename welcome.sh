@@ -196,8 +196,8 @@ mv nodoc01.txt paso_68
 mkdir paso_70
 mv doc06.txt paso_70
 
-## Paso 88
-mkdir paso_88
+## Paso 91
+mkdir paso_91
 echo "
 
 ¡Ya falta poco!
@@ -205,4 +205,4 @@ echo "
 INSTRUCCIÓN: buscá entre todos los directorios los archivos que inicien con doc y tengan extensión .txt.
 Mové o copiá los archivos al directorio paso_42, andá a ese directorio y seguí las instrucciones.
 
-" >> paso_88/instrucciones.txt
+" >> paso_91/instrucciones.txt
