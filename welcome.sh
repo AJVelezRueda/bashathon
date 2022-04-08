@@ -52,7 +52,7 @@ mv doc18.txt paso_7
 mkdir paso_8
 echo "
 
-Vemos otra licencia... la Creative Commons SA (que es la que utilizamos en Mumuki)
+Veamos otra licencia... la Creative Commons SA
 
 INSTRUCCIÓN: Descargá https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt y averiguá cuanto pesa,
 y con ese número expresado en KB, andá al directorio correspondiente y seguí las instrucciones.
@@ -202,7 +202,7 @@ echo "
 
 ¡Ya falta poco!
 
-INSTRUCCIÓN: buscá entre todos los directorios los archivos que inicen con doc y tengan extensión .txt.
+INSTRUCCIÓN: buscá entre todos los directorios los archivos que inicien con doc y tengan extensión .txt.
 Mové o copiá los archivos al directorio paso_42, andá a ese directorio y seguí las instrucciones.
 
 " >> paso_88/instrucciones.txt
