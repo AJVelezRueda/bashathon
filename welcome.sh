@@ -111,7 +111,7 @@ INSTRUCCIÓN: Crea un archivo naranjo.txt con exactamente el siguiente texto:
 
 Era más blanda que el agua
 Que el agua blanda
-Era más fresca que el rió
+Era más fresca que el río
 Naranjo en flor
 
 Asegurate de que no tenga fines de línea ni al inicio ni al final del archivo, y verificá cuántos caracteres contiene y movete al directorio correspondiente.
